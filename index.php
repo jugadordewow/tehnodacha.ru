@@ -1,2 +1,5 @@
-<?php
-echo 'Это ХУЙ!!!!';
+<main>
+    <div class="main-wrapper">
+
+    </div>
+</main>
